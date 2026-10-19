@@ -1,0 +1,16 @@
+/target/
+/frontend/node_modules/
+/frontend/dist/
+/frontend/assets/tailwind.css
+
+.env
+.env.*
+!.env.example
+
+/backups/
+*.dump
+*.sql.gz
+*.log
+/test-results/
+/playwright-report/
+/docker/.verify.*
